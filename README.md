@@ -6,7 +6,7 @@ Es freut uns sehr, dass du dich dafür interessierst, die Schiedsrichterausbildu
 Kurz zusammengefasst läuft die Ausbildung wie folgt ab:
 
 1. Lese das Regelwerk «[Standard Matchplay Rules 2024](./docs/Standard_Matchplay_Rules_2024.pdf)» sowie die [Regelinterpretationen STF](./docs/Regelinterpretationen%20STF.pdf) durch
-2. Melde dich über den folgenden Link bei unserem Online-Ausbildungstool an
+2. Melde dich über den folgenden Link bei unserem Online-Ausbildungstool an: [Anmeldung Ausbildungstool Micromate](https://learn.micromate.ai/registration?orgCode=8955-DEF2-BAF2-F4B1)
     1. Wichtig: Verwende deinen vollständigen Namen sowie deine E-Mail Adresse über welche du erreichbar bist und welche du in deinem Spielerprofil bei der STF hinterlegt hast.
 3. Bestätige deinen Account über die E-Mail welche du von Micromate erhältst
 4. Melde dich bei Micromate an und starte mit der Ausbildung
