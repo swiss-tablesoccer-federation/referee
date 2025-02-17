@@ -1,3 +1,4 @@
+![img.png](img/img.png)
 # Schiedsrichter werden
 
 Es freut uns sehr, dass du dich dafür interessierst, die Schiedsrichterausbildung der Swiss Tablesoccer Federation anzutreten. Der gesamte Ablauf ist im Konzept Schiedsrichterwesen definiert.
@@ -16,7 +17,7 @@ Kurz zusammengefasst läuft die Ausbildung wie folgt ab:
 
 Bitte beachte den Abschnitt «Jährliche Anerkennung» um sicherzustellen, dass dein Schiedsrichterstatus nicht abläuft.
 
-Hast du Fragen zur Ausbildung? Dann komm in unsere WhatsApp Gruppe.
+Hast du Fragen zur Ausbildung? Dann komm in unsere [WhatsApp Gruppe](./contact.md).
 
 ## Informationen zur theoretischen Ausbildung
 
@@ -76,7 +77,7 @@ Um am entsprechenden Stichtag die nötige Auszeichnung zu erhalten, muss du in M
 - Kann ich direkt zum National aufsteigen?
     - Ja, wenn du im ersten Jahr den Theorieteil auf das nötige Level bringst sowie den Ausbildungskurs besuchst, kannst du direkt zum «National» befördert werden.
 - Ich habe einen Fehler in der Ausbildung gefunden, wo kann ich mich melden?
-    - Melde dich auf [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch)
+    - Melde dich in unserer [WhatsApp Gruppe oder auf referee@swisstablesoccer.ch](./contact.md).
 - Was sind die Anfroderungen nach welchen die Schiedsrichterkommission einen Anwärter zum «National» befördert.
     - Grundsätzlich muss ein Schiedsrichter selbst wissen, ob er sich wohl genug fühlt, ein Spiel in voller Verantwortung selbst zu leiten. Die Schiedsrichterkommission erwartet jedoch von den Schiedsrichtern, dass eine gewisse Erfahrung aufgezeigt werden kann.
 - Wo kann ich das Regelwerk in Deutsch/Französisch/Italienisch beziehen.
