@@ -9,11 +9,12 @@ Kurz zusammengefasst läuft die Ausbildung wie folgt ab:
 2. Melde dich über den folgenden Link bei unserem Online-Ausbildungstool an: [Anmeldung Ausbildungstool Micromate](https://learn.micromate.ai/registration?orgCode=8955-DEF2-BAF2-F4B1)
     1. Wichtig: Verwende deinen vollständigen Namen sowie deine E-Mail Adresse über welche du erreichbar bist und welche du in deinem Spielerprofil bei der STF hinterlegt hast.
 3. Bestätige deinen Account über die E-Mail welche du von Micromate erhältst
-4. Melde dich bei Micromate an und starte mit der Ausbildung
-5. Sobald du das Lernziel für «Assistant» erreich hast, kannst du dich an einen Ausbildungskurs anmelden.
-6. Sobald du den Ausbildungskurs absolviert hast, wirst du automatisch zum «Regional» befördert.
-7. Sammle Erfahrung an den Turnieren (siehe Abschnitt praktische Ausbildung)
-8. Melde dich bei der Schiedsrichterkommission mit der Anfrage zur Beförderung zum «National».
+4. Melde dich über den folgenden Link bei Micromate an und starte mit der Ausbildung: [Ausbildungstool Micromate](https://learn.micromate.ai)
+5. Speichere dir den obigen Link, du wirst diesen in den nächsten Monaten öfters benötigen.
+6. Sobald du das Lernziel für «Assistant» erreich hast, kannst du dich an einen Ausbildungskurs anmelden.
+7. Sobald du den Ausbildungskurs absolviert hast, wirst du automatisch zum «Regional» befördert.
+8. Sammle Erfahrung an den Turnieren (siehe Abschnitt praktische Ausbildung)
+9. Melde dich bei der Schiedsrichterkommission mit der Anfrage zur Beförderung zum «National».
 
 Bitte beachte den Abschnitt «Jährliche Anerkennung» um sicherzustellen, dass dein Schiedsrichterstatus nicht abläuft.
 
