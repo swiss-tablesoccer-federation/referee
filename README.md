@@ -24,6 +24,7 @@ Hast du Fragen zur Ausbildung? Dann komm in unsere [WhatsApp Gruppe](./contact.m
 
 - Die Fragestellungen sind in der von dir ausgewählten Sprache gestellt.
 - Sämtliche Fachbegriffe sind immer in Englisch. Dies soll die Kommunikation zwischen Schiedsrichter und Spielern vereinfachen, auch wenn die Parteien eine unterschiedliche Sprache sprechen.
+- Wir verbessern die Theoreiausbildung laufend. D.h. es kann gut sein, dass du noch auf Fehler triffst. Melde die gerne direkt über die [Feedbackfunktion von Micromate](./feedback.md).
 
 ## Praktische Ausbildung
 
