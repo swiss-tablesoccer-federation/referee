@@ -49,7 +49,7 @@ Wir führen jährlich drei Workshops durch. Die Workshops haben die folgenden Be
 
 Falls du für deinen Vereine einen spezifischen Schiedsrichter Workshop organisieren möchte, dann bieten wir gerne Hand dazu. Nimm dazu gerne mit uns über [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch) Kontakt auf.
 
-Die nächsten Workshops finden
+Wir planen aktuell die nächsten Workshop-Termine. Sobald diese bekannt sind, wird man sich hier dafür anmelden können.
 
 ## Jährliche Anerkennung
 
@@ -61,6 +61,17 @@ Somit musst du jedes Jahr erneut die nötigen Lernziele für deine Stufe erreich
 - 31.12.20XX
 
 Um am entsprechenden Stichtag die nötige Auszeichnung zu erhalten, muss du in Micromate innerhalb von 6 Monaten vor dem Stichtag mindestens einmal das Lernziel erreicht haben. Ob du zum Stichtag die nötigen Prozentzahlen aufweisen kannst, ist dabei irrelevant.
+
+## Lenkungsabgabe
+
+Wie im Konzept zur Schiedsrichterausbildung definiert, wird für Spieler, welche die Schiedsrichterausbildung nicht absolviert haben eine Lenkungsabgabe von bis zu 30.- CHF fällig. Diese wird automatisch auf die Jahreslizenz aufgeschlagen.
+
+Je nach Ausbildungsstand wird euch dieser Betrag erlassen:
+
+- Ohne Ausbildung: 30.- CHF
+- Assistant: 20.- CHF
+- Regional: 10.- CHF
+- National: 0.- CHF
 
 ## Häufig gestellte Fragen
 
@@ -86,3 +97,11 @@ Um am entsprechenden Stichtag die nötige Auszeichnung zu erhalten, muss du in M
     - Bist du dir sicher, dass du noch alles weist? Dann sollten die Fragen für dich ein Kinderspiel sein. Wir werden aber laufend auch neue Fragestellungen hinzufügen und somit sicherstellen, dass du als Schiedsrichter immer einen aktuellen Wissensstand hast.
 - Wer darf die Schiedsrichterausbildung machen?
     - Die Theorieausbildung mit Micromate sowie die praktische Ausbildung an unseren Workshops ist nur für Spieler zugänglich, welche einen Verein der STF angehören.
+
+## Dokumente
+
+- [Konzept Schiedsrichterausbildung](./docs/Konzept Schiedsrichterwesen.pdf)
+- [Standard Matchplay Rules 2.0](./docs/Standard_Matchplay_Rules_2.0.pdf)
+- [Reglement Lenkungsabgabe](./docs/Reglement Lenkungsabgabe.pdf)
+- [Reglement Schiedsrichterwesen](./docs/Reglement Schiedsrichterwesen.pdf)
+- [Regelinterpretationen STF](./docs/Regelinterpretationen STF.pdf)
