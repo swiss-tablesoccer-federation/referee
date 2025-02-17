@@ -1,3 +1,5 @@
+![img.png](img/img.png)
+
 # Austausch und Kontakt
 
 Gerne möchten wir den Austausch zwischen den Schiedsrichtern fördern. Dazu haben wir eine WhatsApp Gruppe eingerichtet. In dieser Gruppe können Fragen gestellt, Erfahrungen ausgetauscht und Diskussionen geführt werden.

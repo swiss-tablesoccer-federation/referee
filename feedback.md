@@ -1,3 +1,5 @@
+![img.png](img/img.png)
+
 # Stand Ausbildungsunterlagen
 
 Die Ausbildungsunterlagen für die Online-Ausbildung der Swiss Tablesoccer Federation basieren auf dem Standard Matchplay Rule 2.0 Dokument der ITSF.
