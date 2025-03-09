@@ -73,6 +73,8 @@ Pertanto, ogni anno devi raggiungere nuovamente gli obiettivi di apprendimento n
 
 Per ricevere il premio necessario entro la data di riferimento, devi aver raggiunto l'obiettivo di apprendimento almeno una volta in Micromate entro 6 mesi dalla data di riferimento. Non è rilevante se puoi mostrare le percentuali necessarie entro la data di riferimento.
 
+> Consiglio: ciò che impari ti rimane più a lungo se svolgi spesso piccole unità di apprendimento. Per raggiungere il tuo obiettivo di apprendimento, impara preferibilmente 5-10 minuti al giorno con Micromate.
+
 ## Tassa di indirizzo
 
 Come definito nel concetto di formazione per arbitri, per i giocatori che non hanno completato la formazione per arbitri è prevista una tassa di orientamento fino a 30.- CHF. Questa viene automaticamente aggiunta alla licenza annuale.
@@ -87,27 +89,27 @@ A seconda del livello di formazione, questo importo vi sarà rimborsato:
 ## Domande frequenti
 
 - Due settimane fa ero all'80%, ma ora sono solo al 62% - perché il mio progresso nell'apprendimento sta diminuendo?
-- Noi esseri umani dimentichiamo, e lo facciamo rapidamente. Micromate lo riconosce e ti riconosce di conseguenza dopo una pausa di apprendimento. Se impari di più per un periodo di tempo più lungo, questo processo rallenterà notevolmente. Inoltre, il tuo progresso nell'apprendimento si riprenderà rapidamente quando Micromate riconoscerà che hai ancora il controllo dei contenuti.
+    - Noi esseri umani dimentichiamo, e lo facciamo rapidamente. Micromate lo riconosce e ti riconosce di conseguenza dopo una pausa di apprendimento. Se impari di più per un periodo di tempo più lungo, questo processo rallenterà notevolmente. Inoltre, il tuo progresso nell'apprendimento si riprenderà rapidamente quando Micromate riconoscerà che hai ancora il controllo dei contenuti.
 - Dove posso trovare i miei progressi di apprendimento per ogni pacchetto di apprendimento?
-- Puoi visualizzare i tuoi progressi di apprendimento personali in qualsiasi momento nella scheda Progressi di apprendimento su Micromate.
+    - Puoi visualizzare i tuoi progressi di apprendimento personali in qualsiasi momento nella scheda Progressi di apprendimento su Micromate.
 - Non sarebbe più sensato un corso pratico guidato? Ad esempio con workshop, discussioni sulle regole, ecc.
-- Siamo convinti che un corso pratico come quello dei nostri corsi di formazione abbia senso solo se i partecipanti hanno compreso le basi delle regole. Di conseguenza, la base della nostra formazione è un corso teorico di base su cui si basa la formazione pratica.
+    - Siamo convinti che un corso pratico come quello dei nostri corsi di formazione abbia senso solo se i partecipanti hanno compreso le basi delle regole. Di conseguenza, la base della nostra formazione è un corso teorico di base su cui si basa la formazione pratica.
 - Il mio accesso a Micromate non funziona, cosa posso fare?
-- Contattaci all'indirizzo <referee@swisstablesoccer.ch>.
+    - Contattaci all'indirizzo <referee@swisstablesoccer.ch>.
 - Ho raggiunto gli obiettivi di apprendimento, ma non ho ancora ricevuto la conferma, cosa posso fare?
-- Riceverai la conferma il giorno successivo. Se non hai ricevuto la conferma via e-mail una settimana dopo la data di riferimento, contattaci all'indirizzo <referee@swisstablesoccer.ch>.
+    - Riceverai la conferma il giorno successivo. Se non hai ricevuto la conferma via e-mail una settimana dopo la data di riferimento, contattaci all'indirizzo <referee@swisstablesoccer.ch>.
 - Posso passare direttamente al livello nazionale?
-- Sì, se nel primo anno porti la parte teorica al livello richiesto e frequenti il corso di formazione, puoi essere promosso direttamente al livello “nazionale”.
+    - Sì, se nel primo anno porti la parte teorica al livello richiesto e frequenti il corso di formazione, puoi essere promosso direttamente al livello “nazionale”.
 - Ho trovato un errore nella formazione, dove posso segnalarlo?
-- Contattaci nel nostro gruppo WhatsApp o su referee@swisstablesoccer.ch.
+    - Contattaci nel nostro gruppo WhatsApp o su referee@swisstablesoccer.ch.
 - Quali sono i requisiti in base ai quali la commissione arbitrale promuove un candidato a “nazionale”.
-- In linea di principio, un arbitro deve sapere se si sente abbastanza sicuro da poter dirigere una partita in piena responsabilità. Tuttavia, la commissione arbitrale si aspetta che gli arbitri dimostrino una certa esperienza.
+    - In linea di principio, un arbitro deve sapere se si sente abbastanza sicuro da poter dirigere una partita in piena responsabilità. Tuttavia, la commissione arbitrale si aspetta che gli arbitri dimostrino una certa esperienza.
 - Dove posso ottenere il regolamento in tedesco/francese/italiano.
-- Attualmente il regolamento è disponibile solo in inglese. Una traduzione dovrebbe essere fornita dall'ITSF.
+    - Attualmente il regolamento è disponibile solo in inglese. Una traduzione dovrebbe essere fornita dall'ITSF.
 - Perché devo imparare ogni anno la stessa cosa?
-- Sei sicuro di ricordare tutto? Allora le domande dovrebbero essere un gioco da ragazzi per te. Tuttavia, aggiungeremo continuamente nuove domande per garantire che tu, come arbitro, abbia sempre una conoscenza aggiornata.
+    - Sei sicuro di ricordare tutto? Allora le domande dovrebbero essere un gioco da ragazzi per te. Tuttavia, aggiungeremo continuamente nuove domande per garantire che tu, come arbitro, abbia sempre una conoscenza aggiornata.
 - Chi può seguire la formazione per arbitri?
-- La formazione teorica con Micromate e la formazione pratica nei nostri workshop sono accessibili solo ai giocatori che appartengono a un club della STF.
+    - La formazione teorica con Micromate e la formazione pratica nei nostri workshop sono accessibili solo ai giocatori che appartengono a un club della STF.
 
 ## Documenti
 
