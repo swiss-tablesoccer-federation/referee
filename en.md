@@ -73,6 +73,8 @@ Therefore, you have to achieve the necessary learning objectives for your level 
 
 In order to receive the necessary award on the corresponding cut-off date, you must have achieved the learning objective at least once in Micromate within 6 months prior to the cut-off date. Whether you can demonstrate the necessary percentage figures on the cut-off date is irrelevant.
 
+> Tip: You will remember what you have learned for longer if you complete small learning units frequently. It is best to study with Micromate for 5-10 minutes a day to achieve your learning goal.
+
 ## Steering levy
 
 As defined in the referee training concept, a steering fee of up to CHF 30 is due for players who have not completed the referee training. This is automatically added to the annual license.
@@ -87,27 +89,27 @@ Depending on your level of training, you will be waived this amount:
 ## Frequently asked questions
 
 - I was at 80 percent two weeks ago, but now only at 62% - why is my learning progress declining?
-- We humans forget, and we do it quickly. Micromate recognizes this and recognizes you accordingly after a learning break. If you learn more over a longer period of time, this process will slow down noticeably. Furthermore, your learning progress will quickly recover if Micromate recognizes that you still have a good grasp of the content.
-Where can I find my learning progress per learning package?
-You can view your personal learning progress at any time in the Learning Progress tab at Micromate.
-Would a guided practical training not be more sensible? For example, with workshops, rule discussions, etc.?
-We are convinced that practical training such as in our training courses is only useful if the participants have understood the basics of the rules. Accordingly, the basis of our training is a basic theoretical training on which the practical training is built.
-My access to Micromate is not working, what can I do?
-- Contact us at <referee@swisstablesoccer.ch>.
+    - We humans forget, and we do it quickly. Micromate recognizes this and recognizes you accordingly after a learning break. If you learn more over a longer period of time, this process will slow down noticeably. Furthermore, your learning progress will quickly recover if Micromate recognizes that you still have a good grasp of the content.
+- Where can I find my learning progress per learning package?
+    - You can view your personal learning progress at any time in the Learning Progress tab at Micromate.
+- Would a guided practical training not be more sensible? For example, with workshops, rule discussions, etc.?
+    - We are convinced that practical training such as in our training courses is only useful if the participants have understood the basics of the rules. Accordingly, the basis of our training is a basic theoretical training on which the practical training is built.
+- My access to Micromate is not working, what can I do?
+    - Contact us at <referee@swisstablesoccer.ch>.
 - I have achieved the learning objectives but have not yet received a confirmation. What should I do?
-- You will receive the confirmation on the next due date. If you have not received a confirmation by email one week after the due date, contact us at <referee@swisstablesoccer.ch>.
+    - You will receive the confirmation on the next due date. If you have not received a confirmation by email one week after the due date, contact us at <referee@swisstablesoccer.ch>.
 - Can I be promoted directly to national?
-- Yes, if you bring the theory part up to the required level in the first year and attend the training course, you can be promoted directly to “national”.
+    - Yes, if you bring the theory part up to the required level in the first year and attend the training course, you can be promoted directly to “national”.
 - I found a mistake in the training, where can I report it?
-- Contact us in our [WhatsApp group or at referee@swisstablesoccer.ch](./contact.md).
-What are the requirements for the Referee Commission to promote a candidate to “National”?
-In principle, a referee must decide for themselves whether they feel comfortable enough to take full responsibility for a game. However, the Referee Commission expects referees to be able to demonstrate a certain level of experience.
-Where can I get the rules in German/French/Italian?
-The rules are currently only available in English. A translation would have to be provided by the ITSF.
-Why do I have to learn the same thing every year?
-Are you sure you still know everything? Then the questions should be a breeze for you. However, we will also continuously add new questions to ensure that you as a referee always have up-to-date knowledge.
+    - Contact us in our [WhatsApp group or at referee@swisstablesoccer.ch](./contact.md).
+- What are the requirements for the Referee Commission to promote a candidate to “National”?
+    - In principle, a referee must decide for themselves whether they feel comfortable enough to take full responsibility for a game. However, the Referee Commission expects referees to be able to demonstrate a certain level of experience.
+- Where can I get the rules in German/French/Italian?
+    - The rules are currently only available in English. A translation would have to be provided by the ITSF.
+- Why do I have to learn the same thing every year?
+    - Are you sure you still know everything? Then the questions should be a breeze for you. However, we will also continuously add new questions to ensure that you as a referee always have up-to-date knowledge.
 - Who can take the umpire training?
-- The theory training with Micromate and the practical training at our workshops are only open to players who belong to a club affiliated with the STF.
+     - The theory training with Micromate and the practical training at our workshops are only open to players who belong to a club affiliated with the STF.
 
 ## Documents
 
