@@ -12,11 +12,11 @@ In breve, la formazione si svolge come segue:
 1. Leggi il regolamento «[Standard Matchplay Rules 2024](./docs/Standard_Matchplay_Rules_2024.pdf)» e le [interpretazioni delle regole STF](./docs/Regelinterpretationen%20STF.pdf)
 2. Facoltativo: unisciti al [gruppo WhatsApp](./contact.md) e partecipa alle discussioni
 3. Registrati al nostro strumento di formazione online tramite il seguente link: [Registrazione strumento di formazione Micromate](https://learn.micromate.ai/registration?orgCode=8955-DEF2-BAF2-F4B1)
-1. Importante: utilizza il tuo nome completo e l'indirizzo e-mail a cui sei raggiungibile e che hai inserito nel tuo profilo giocatore presso la STF.
+    1. Importante: utilizza il tuo nome completo e l'indirizzo e-mail a cui sei raggiungibile e che hai inserito nel tuo profilo giocatore presso la STF.
 3. Conferma il tuo account tramite l'e-mail che riceverai da Micromate
 4. Accedi a Micromate tramite il seguente link e inizia la formazione.
-1. Puoi trovare lo strumento di formazione qui: [Strumento di formazione Micromate](https://learn.micromate.ai)
-2. Micromate conduce una sorta di conversazione con te. Ti pone domande di regole in piccole sessioni di 5 domande. Micromate riconosce ciò che sai e ciò che non sai. Nel corso del tempo, ti porrà di nuovo le stesse domande per verificare i tuoi progressi. È meglio imparare 10 minuti al giorno per raggiungere la percentuale necessaria in modo sostenibile.
+    1. Puoi trovare lo strumento di formazione qui: [Strumento di formazione Micromate](https://learn.micromate.ai)
+    2. Micromate conduce una sorta di conversazione con te. Ti pone domande di regole in piccole sessioni di 5 domande. Micromate riconosce ciò che sai e ciò che non sai. Nel corso del tempo, ti porrà di nuovo le stesse domande per verificare i tuoi progressi. È meglio imparare 10 minuti al giorno per raggiungere la percentuale necessaria in modo sostenibile.
 6. Salva il link qui sopra, ne avrai bisogno più volte nei prossimi mesi.
 7. Una volta raggiunto l'obiettivo di apprendimento per «Assistente», puoi iscriverti a un corso di formazione.
 8. Una volta completato il corso di formazione, verrai automaticamente promosso a «Regionale».
