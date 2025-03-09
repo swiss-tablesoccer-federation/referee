@@ -5,6 +5,8 @@
 
 # Diventare arbitro
 
+> Attenzione: tutte le traduzioni sono state effettuate con DeepL. Se qualcosa può essere ottimizzato, si prega di segnalarlo a referee@swisstablesoccer.ch.
+
 Siamo molto lieti che tu sia interessato a seguire la formazione per arbitri della Swiss Tablesoccer Federation. L'intero processo è definito nel concetto di arbitraggio.
 
 In breve, la formazione si svolge come segue:
