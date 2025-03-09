@@ -73,6 +73,8 @@ Ainsi, tu dois atteindre chaque année les objectifs d'apprentissage nécessaire
 
 Pour obtenir la distinction requise à la date limite correspondante, tu dois avoir atteint l'objectif d'apprentissage au moins une fois dans les 6 mois précédant la date limite dans Micromate. Le fait que tu puisses ou non afficher les pourcentages requis à la date limite n'a aucune importance.
 
+> Conseil: ce que tu apprends reste plus longtemps en mémoire si tu effectues fréquemment de petites unités d'apprentissage. Pour atteindre ton objectif d'apprentissage, il est préférable d'étudier 5 à 10 minutes par jour avec Micromate.
+
 ## Taxe d'incitation
 
 Comme défini dans le concept de formation des arbitres, une taxe d'orientation pouvant aller jusqu'à 30 CHF est due pour les joueurs qui n'ont pas suivi la formation d'arbitre. Cette taxe est automatiquement ajoutée à la licence annuelle.
