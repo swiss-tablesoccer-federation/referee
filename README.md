@@ -116,3 +116,6 @@ Je nach Ausbildungsstand wird euch dieser Betrag erlassen:
 - [Reglement Lenkungsabgabe](./docs/Reglement Lenkungsabgabe.pdf)
 - [Reglement Schiedsrichterwesen](./docs/Reglement Schiedsrichterwesen.pdf)
 - [Regelinterpretationen STF](./docs/Regelinterpretationen STF.pdf)
+
+## Copyright
+Sämtliche Inhalte der Schiedsrichterausbildung sind Eigentum der Swiss Tablesoccer Federation und dürfen nicht ohne Erlaubnis der Schiedsrichterkomission weiterverwendet werden.
