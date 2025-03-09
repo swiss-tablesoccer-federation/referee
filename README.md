@@ -4,7 +4,7 @@
 |---|---|---|---|
 |🇩🇪|[Francais](./fr.md)|[Italiano](./it.md)|[English](./en.md)|
 
-# Schiedsrichter werden1
+# Schiedsrichter werden
 
 Es freut uns sehr, dass du dich dafür interessierst, die Schiedsrichterausbildung der Swiss Tablesoccer Federation anzutreten. Der gesamte Ablauf ist im Konzept Schiedsrichterwesen definiert.
 
