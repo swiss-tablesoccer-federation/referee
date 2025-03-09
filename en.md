@@ -5,6 +5,8 @@
 
 # Become a referee
 
+> Attention: All translations were done with DeepL. If anything can be optimized, please report it to referee@swisstablesoccer.ch.
+
 We are very pleased that you are interested in becoming a Swiss Tablesoccer Federation referee. The entire process is defined in the refereeing concept.
 
 In a nutshell, the training is structured as follows:
