@@ -5,11 +5,13 @@
 
 # Devenir arbitre
 
+> Attention : toutes les traductions ont été réalisées avec DeepL. Si quelque chose peut être optimisé, veuillez le signaler à referee@swisstablesoccer.ch.
+
 Nous sommes très heureux que tu sois intéressé par la formation d'arbitre de la Swiss Tablesoccer Federation. Le déroulement complet est défini dans le concept d'arbitrage.
 
 En résumé, la formation se déroule comme suit :
 
-1. Lis le règlement «[Règles standard de match 2024](./docs/Standard_Matchplay_Rules_2024.pdf)» ainsi que les [interprétations des règles STF](./docs/Regelinterpretationen%20STF.pdf)
+1. Lis le règlement «[Standard_Matchplay_Rules 2024](./docs/Standard_Matchplay_Rules_2024.pdf)» ainsi que les [interprétations des règles STF](./docs/Regelinterpretationen%20STF.pdf)
 2. Facultatif : rejoins le [groupe WhatsApp](./contact.md) et participe aux discussions
 3. Inscris-toi à notre outil de formation en ligne en cliquant sur le lien suivant : [Inscription à l'outil de formation Micromate](https://learn.micromate.ai/registration?orgCode=8955-DEF2-BAF2-F4B1)
     1. Important : utilise ton nom complet ainsi que ton adresse e-mail, celle que tu as indiquée dans ton profil de joueur sur le site de la STF et celle à laquelle tu es joignable.
@@ -85,25 +87,25 @@ Selon le niveau de formation, ce montant vous sera remis :
 ## Questions fréquemment posées
 
 - Il y a deux semaines, j'étais à 80 %, mais maintenant je ne suis plus qu'à 62 % - pourquoi mes progrès d'apprentissage diminuent-ils ?
-- Nous, les humains, nous oublions, et nous le faisons rapidement. Micromate le reconnaît et te reconnaît en conséquence après une pause d'apprentissage. Si tu apprends plus pendant une période plus longue, ce processus ralentira sensiblement. De plus, tes progrès en matière d'apprentissage se rétablissent rapidement lorsque Micromate reconnaît que tu maîtrises toujours le contenu.
+    - Nous, les humains, nous oublions, et nous le faisons rapidement. Micromate le reconnaît et te reconnaît en conséquence après une pause d'apprentissage. Si tu apprends plus pendant une période plus longue, ce processus ralentira sensiblement. De plus, tes progrès en matière d'apprentissage se rétablissent rapidement lorsque Micromate reconnaît que tu maîtrises toujours le contenu.
 - Où puis-je trouver mes progrès par module d'apprentissage ?
-- Tu peux consulter tes progrès personnels à tout moment dans l'onglet Progression de Micromate.
+    - Tu peux consulter tes progrès personnels à tout moment dans l'onglet Progression de Micromate.
 - Une formation pratique guidée ne serait-elle pas plus judicieuse ? Par exemple avec des ateliers, des discussions sur les règles, etc.
-- Nous sommes convaincus qu'une formation pratique telle que celle que nous proposons dans nos cours n'a de sens que si les participants ont compris les bases des règles. En conséquence, la base de notre formation est une formation théorique de base sur laquelle la formation pratique est construite.
+    - Nous sommes convaincus qu'une formation pratique telle que celle que nous proposons dans nos cours n'a de sens que si les participants ont compris les bases des règles. En conséquence, la base de notre formation est une formation théorique de base sur laquelle la formation pratique est construite.
 - Mon accès à Micromate ne fonctionne pas, que puis-je faire ?
-- Contacte-nous via <referee@swisstablesoccer.ch>.
+    - Contacte-nous via <referee@swisstablesoccer.ch>.
 - J'ai atteint les objectifs d'apprentissage, mais je n'ai pas encore reçu de confirmation, que puis-je faire ?
-- Tu recevras la confirmation le jour suivant la date limite. Si tu n'as pas reçu de confirmation par e-mail une semaine après la date limite, contacte-nous à l'adresse <referee@swisstablesoccer.ch>.
+    - Tu recevras la confirmation le jour suivant la date limite. Si tu n'as pas reçu de confirmation par e-mail une semaine après la date limite, contacte-nous à l'adresse <referee@swisstablesoccer.ch>.
 - Puis-je passer directement au niveau national ?
-- Oui, si tu atteins le niveau requis dans la partie théorique la première année et que tu suis le cours de formation, tu peux être promu directement au niveau «national».
+    - Oui, si tu atteins le niveau requis dans la partie théorique la première année et que tu suis le cours de formation, tu peux être promu directement au niveau «national».
 - J'ai trouvé une erreur dans la formation, où puis-je me manifester ?
-- Contacte notre [groupe WhatsApp ou referee@swisstablesoccer.ch](./contact.md).
+    - Contacte notre [groupe WhatsApp ou referee@swisstablesoccer.ch](./contact.md).
 - Quelles sont les exigences selon lesquelles la commission d'arbitrage promeut un candidat au niveau «national» ?
-- En principe, un arbitre doit savoir s'il se sent suffisamment à l'aise pour arbitrer un match en toute responsabilité. Cependant, la commission d'arbitrage attend des arbitres qu'ils puissent démontrer une certaine expérience.
+    - En principe, un arbitre doit savoir s'il se sent suffisamment à l'aise pour arbitrer un match en toute responsabilité. Cependant, la commission d'arbitrage attend des arbitres qu'ils puissent démontrer une certaine expérience.
 - Où puis-je me procurer le règlement en allemand/français/italien ?
-- Actuellement, le règlement n'est disponible qu'en anglais. Une traduction devrait être fournie par l'ITSF.
+    - Actuellement, le règlement n'est disponible qu'en anglais. Une traduction devrait être fournie par l'ITSF.
 - Pourquoi dois-je réapprendre la même chose chaque année ?
-- Es-tu sûr de tout savoir ? Si c'est le cas, les questions devraient être un jeu d'enfant pour toi. Cependant, nous ajouterons régulièrement de nouvelles questions afin de nous assurer que tu disposes toujours des connaissances les plus récentes en tant qu'arbitre.
+    - Es-tu sûr de tout savoir ? Si c'est le cas, les questions devraient être un jeu d'enfant pour toi. Cependant, nous ajouterons régulièrement de nouvelles questions afin de nous assurer que tu disposes toujours des connaissances les plus récentes en tant qu'arbitre.
 Qui peut suivre la formation d'arbitre ?
 La formation théorique avec Micromate ainsi que la formation pratique lors de nos ateliers sont uniquement accessibles aux joueurs qui sont membres d'un club de la STF.
 
