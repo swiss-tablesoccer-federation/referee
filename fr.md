@@ -12,11 +12,11 @@ En résumé, la formation se déroule comme suit :
 1. Lis le règlement «[Règles standard de match 2024](./docs/Standard_Matchplay_Rules_2024.pdf)» ainsi que les [interprétations des règles STF](./docs/Regelinterpretationen%20STF.pdf)
 2. Facultatif : rejoins le [groupe WhatsApp](./contact.md) et participe aux discussions
 3. Inscris-toi à notre outil de formation en ligne en cliquant sur le lien suivant : [Inscription à l'outil de formation Micromate](https://learn.micromate.ai/registration?orgCode=8955-DEF2-BAF2-F4B1)
-1. Important : utilise ton nom complet ainsi que ton adresse e-mail, celle que tu as indiquée dans ton profil de joueur sur le site de la STF et celle à laquelle tu es joignable.
+    1. Important : utilise ton nom complet ainsi que ton adresse e-mail, celle que tu as indiquée dans ton profil de joueur sur le site de la STF et celle à laquelle tu es joignable.
 3. Confirme ton compte en utilisant l'e-mail que tu as reçu de Micromate.
 4. Connecte-toi à Micromate en utilisant le lien suivant et commence ta formation.
-1. Tu trouveras l'outil de formation ici : [Outil de formation Micromate](https://learn.micromate.ai)
-2. Micromate mène une sorte de conversation avec toi. Il te pose des questions de règles par petites sessions de 5 questions. Micromate reconnaît ainsi ce que tu sais et ce que tu ne sais pas. Il te posera les mêmes questions au fil du temps pour vérifier tes progrès. Le mieux est d'étudier 10 minutes par jour pour atteindre le pourcentage nécessaire de manière durable.
+    1. Tu trouveras l'outil de formation ici : [Outil de formation Micromate](https://learn.micromate.ai)
+    2. Micromate mène une sorte de conversation avec toi. Il te pose des questions de règles par petites sessions de 5 questions. Micromate reconnaît ainsi ce que tu sais et ce que tu ne sais pas. Il te posera les mêmes questions au fil du temps pour vérifier tes progrès. Le mieux est d'étudier 10 minutes par jour pour atteindre le pourcentage nécessaire de manière durable.
 6. Enregistre le lien ci-dessus, tu en auras souvent besoin dans les mois à venir.
 7. Dès que tu as atteint l'objectif d'apprentissage pour «Assistant», tu peux t'inscrire à un cours de formation.
 8. Dès que tu as terminé le cours de formation, tu es automatiquement promu «Régional».
