@@ -1,7 +1,6 @@
 ![img.png](img/img.png)
 
 |Deutsch|[Francais](./fr.md)|[Italiano](./it.md)|[English](./en.md)|
-
 |---|---|---|---|
 
 # Schiedsrichter werden
