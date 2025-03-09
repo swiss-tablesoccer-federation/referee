@@ -2,7 +2,6 @@
 
 |Deutsch|[Francais](./fr.md)|[Italiano](./it.md)|[English](./en.md)|
 |---|---|---|---|
-|🇩🇪|[Francais](./fr.md)|[Italiano](./it.md)|[English](./en.md)|
 
 # Schiedsrichter werden
 
