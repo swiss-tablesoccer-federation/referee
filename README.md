@@ -71,6 +71,8 @@ Somit musst du jedes Jahr erneut die nötigen Lernziele für deine Stufe erreich
 
 Um am entsprechenden Stichtag die nötige Auszeichnung zu erhalten, muss du in Micromate innerhalb von 6 Monaten vor dem Stichtag mindestens einmal das Lernziel erreicht haben. Ob du zum Stichtag die nötigen Prozentzahlen aufweisen kannst, ist dabei irrelevant.
 
+> Tipp: Gelerntes bleibt dir länger, wenn du häufig kleine Lerneinheiten durchführst. Lerne am besten täglich 5-10 Minuten mit Micromate, um dein Lernziel zu erreichen.
+
 ## Lenkungsabgabe
 
 Wie im Konzept zur Schiedsrichterausbildung definiert, wird für Spieler, welche die Schiedsrichterausbildung nicht absolviert haben eine Lenkungsabgabe von bis zu 30.- CHF fällig. Diese wird automatisch auf die Jahreslizenz aufgeschlagen.
