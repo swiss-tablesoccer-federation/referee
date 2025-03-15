@@ -20,20 +20,31 @@ En résumé, la formation se déroule comme suit :
     1. Tu trouveras l'outil de formation ici : [Outil de formation Micromate](https://learn.micromate.ai)
     2. Micromate mène une sorte de conversation avec toi. Il te pose des questions de règles par petites sessions de 5 questions. Micromate reconnaît ainsi ce que tu sais et ce que tu ne sais pas. Il te posera les mêmes questions au fil du temps pour vérifier tes progrès. Le mieux est d'étudier 10 minutes par jour pour atteindre le pourcentage nécessaire de manière durable.
 6. Enregistre le lien ci-dessus, tu en auras souvent besoin dans les mois à venir.
-7. Dès que tu as atteint l'objectif d'apprentissage pour «Assistant», tu peux t'inscrire à un cours de formation.
-8. Dès que tu as terminé le cours de formation, tu es automatiquement promu «Régional».
-9. Acquiers de l'expérience lors des tournois (voir la section formation pratique)
-10. Contacte la commission des arbitres pour demander ta promotion au niveau «national».
+7. Dès que tu as atteint l'[objectif d'apprentissage](https://referee.swisstablesoccer.ch/fr.md#lernziele) pour «Assistant», tu peux t'inscrire à un cours de formation.
+8. Une fois que tu auras suivi le cours de formation, tu seras automatiquement promu au niveau «Régional».
+9. Acquiers de l'expérience lors des tournois (voir la section Formation pratique)
+10. Atteins l'[objectif d'apprentissage](https://referee.swisstablesoccer.ch/fr.md#lernziele) pour le niveau «National».
 
 Veuille lire la section «Reconnaissance annuelle» pour t'assurer que ton statut d'arbitre n'expire pas.
 
 Tu as des questions sur la formation ? Alors rejoins notre [groupe WhatsApp](./contact.md).
 
-## Informations sur la formation théorique
+## Formation théorique
 
 - Les questions sont posées dans la langue que tu as choisie.
 - Tous les termes techniques sont toujours en anglais. Cela devrait faciliter la communication entre l'arbitre et les joueurs, même si les parties parlent une langue différente.
 - Nous améliorons constamment la formation théorique. Il se peut donc que tu rencontres encore des erreurs. N'hésite pas à nous les signaler directement via la [fonction de feedback de Micromate](./feedback.md).
+
+### Modules d'apprentissage
+Les contenus d'apprentissage dans Micromate sont divisés en deux modules d'apprentissage. Il est préférable de commencer par les « Définitions ». Il s'agit de comprendre les termes les plus importants du baby-foot, par exemple ce qu'est un « transfert » ou une « transition ». Dans le deuxième module d'apprentissage « Interprétations », vous apprenez à appliquer les règles à l'aide de situations de jeu.
+
+### Objectifs d'apprentissage
+Les objectifs d'apprentissage suivants doivent être atteints dans Micromate pour les différents modules d'apprentissage pour chaque niveau d'arbitrage :
+
+|Niveau|Module d'apprentissage Définitions|Module d'apprentissage Interprétations|
+|---|---|---|
+|Assistant|40 %|40 %|
+|National|80 %|80 %|
 
 ## Formation pratique
 
