@@ -24,6 +24,7 @@ En résumé, la formation se déroule comme suit :
 8. Une fois que tu auras suivi le cours de formation, tu seras automatiquement promu au niveau «Régional».
 9. Acquiers de l'expérience lors des tournois (voir la section Formation pratique)
 10. Atteins l'[objectif d'apprentissage](https://referee.swisstablesoccer.ch/fr.md#lernziele) pour le niveau «National».
+11. Contacte la commission des arbitres pour demander ta promotion au niveau «National».
 
 Veuille lire la section «Reconnaissance annuelle» pour t'assurer que ton statut d'arbitre n'expire pas.
 
