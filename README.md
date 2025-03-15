@@ -18,16 +18,17 @@ Kurz zusammengefasst läuft die Ausbildung wie folgt ab:
     1. Du findest das Ausbildungstool hier: [Ausbildungstool Micromate](https://learn.micromate.ai)
     2. Micromate führt mit dir eine Art Konversation. Er stellt dir Regelfragen in kleinen Sessions von 5 Fragen. Micromate erkennt dabei, was du kannst und was nicht. Er wird dir über die Zeit die gleichen Fragen erneut stellen um deinen Fortschritt zu prüfen. Am besten lernst du jeden Tag 10 Minuten um die nötige Prozentzahl nachhaltig zu erlangen.
 6. Speichere dir den obigen Link, du wirst diesen in den nächsten Monaten öfters benötigen.
-7. Sobald du das [Lernziel](ads) für «Assistant» erreich hast, kannst du dich an einen Ausbildungskurs anmelden.
+7. Sobald du das [Lernziel](https://referee.swisstablesoccer.ch/#lernziele) für «Assistant» erreich hast, kannst du dich an einen Ausbildungskurs anmelden.
 8. Sobald du den Ausbildungskurs absolviert hast, wirst du automatisch zum «Regional» befördert.
 9. Sammle Erfahrung an den Turnieren (siehe Abschnitt praktische Ausbildung)
-10. Melde dich bei der Schiedsrichterkommission mit der Anfrage zur Beförderung zum «National».
+10. Erreiche das [Lernziel](https://referee.swisstablesoccer.ch/#lernziele) für die Stufe «National»
+11. Melde dich bei der Schiedsrichterkommission mit der Anfrage zur Beförderung zum «National».
 
 Bitte beachte den Abschnitt «Jährliche Anerkennung» um sicherzustellen, dass dein Schiedsrichterstatus nicht abläuft.
 
 Hast du Fragen zur Ausbildung? Dann komm in unsere [WhatsApp Gruppe](./contact.md).
 
-## Informationen zur theoretischen Ausbildung
+## Theoretische Ausbildung
 
 - Die Fragestellungen sind in der von dir ausgewählten Sprache gestellt.
 - Sämtliche Fachbegriffe sind immer in Englisch. Dies soll die Kommunikation zwischen Schiedsrichter und Spielern vereinfachen, auch wenn die Parteien eine unterschiedliche Sprache sprechen.
