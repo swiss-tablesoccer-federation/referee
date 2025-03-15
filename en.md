@@ -20,20 +20,32 @@ In a nutshell, the training is structured as follows:
     1. You can find the training tool here: [Training tool Micromate](https://learn.micromate.ai)
     2. Micromate will conduct a kind of conversation with you. He will ask you rules questions in small sessions of 5 questions. Micromate will recognize what you can and cannot do. He will ask you the same questions again over time to check your progress. It is best to study for 10 minutes each day to achieve the necessary percentage sustainably.
 6. Save the above link, you will need it often in the next few months.
-7. Once you have reached the learning objective for “Assistant”, you can register for a training course.
-8. Once you have completed the training course, you will automatically be promoted to “Regional”.
-9. Gain experience at tournaments (see the section on practical training).
-10. Contact the Referee Commission to request promotion to “National”.
+7. As soon as you have achieved the [learning objective](https://referee.swisstablesoccer.ch/#lernziele) for “Assistant”, you can register for a training course.
+8. As soon as you have completed the training course, you will automatically be promoted to “Regional”.
+9. Gain experience at the tournaments (see practical training section)
+10. Achieve the [learning objective](https://referee.swisstablesoccer.ch/#lernziele) for the “National” level
+11. Contact the Referee Commission to request promotion to “National”.
 
 Please refer to the “Annual Recognition” section to ensure that your referee status does not expire.
 
 Do you have questions about the training? Then join our [WhatsApp group](./contact.md).
 
-## Information about the theoretical training
+## Theoretical training
 
 - The questions are asked in the language you have selected.
-All technical terms are always in English. This is to simplify communication between the referee and the players, even if the parties speak different languages.
-We are constantly improving the theory training. This means that it is quite possible that you will come across errors. Please report any errors directly using the Micromate feedback function.
+All technical terms are always in English. This is to simplify communication between referees and players, even if the parties speak different languages.
+We are constantly improving the theory training. This means that it is quite possible that you will still come across errors. Please report them directly using the [Micromate feedback function](./feedback.md).
+
+### Learning packages
+The learning content in Micromate is divided into two learning packages. It's best to start with “Definitions”. This is about understanding the most important terms in foosball, e.g. what a “transfer” or a “transition” is. In the second learning package, “Interpretations”, you will learn to apply the rules based on game situations.
+
+### Learning objectives
+The following learning objectives must be achieved in Micromate for each learning package at each referee level:
+
+|Level|Learning package Definitions|Learning package Interpretations|
+|---|---|---|
+|Assistant|40%|40%|
+|National|80%|80%|
 
 ## Practical training
 
