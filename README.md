@@ -18,7 +18,7 @@ Kurz zusammengefasst läuft die Ausbildung wie folgt ab:
     1. Du findest das Ausbildungstool hier: [Ausbildungstool Micromate](https://learn.micromate.ai)
     2. Micromate führt mit dir eine Art Konversation. Er stellt dir Regelfragen in kleinen Sessions von 5 Fragen. Micromate erkennt dabei, was du kannst und was nicht. Er wird dir über die Zeit die gleichen Fragen erneut stellen um deinen Fortschritt zu prüfen. Am besten lernst du jeden Tag 10 Minuten um die nötige Prozentzahl nachhaltig zu erlangen.
 6. Speichere dir den obigen Link, du wirst diesen in den nächsten Monaten öfters benötigen.
-7. Sobald du das Lernziel für «Assistant» erreich hast, kannst du dich an einen Ausbildungskurs anmelden.
+7. Sobald du das [Lernziel](ads) für «Assistant» erreich hast, kannst du dich an einen Ausbildungskurs anmelden.
 8. Sobald du den Ausbildungskurs absolviert hast, wirst du automatisch zum «Regional» befördert.
 9. Sammle Erfahrung an den Turnieren (siehe Abschnitt praktische Ausbildung)
 10. Melde dich bei der Schiedsrichterkommission mit der Anfrage zur Beförderung zum «National».
@@ -32,6 +32,17 @@ Hast du Fragen zur Ausbildung? Dann komm in unsere [WhatsApp Gruppe](./contact.m
 - Die Fragestellungen sind in der von dir ausgewählten Sprache gestellt.
 - Sämtliche Fachbegriffe sind immer in Englisch. Dies soll die Kommunikation zwischen Schiedsrichter und Spielern vereinfachen, auch wenn die Parteien eine unterschiedliche Sprache sprechen.
 - Wir verbessern die Theoreiausbildung laufend. D.h. es kann gut sein, dass du noch auf Fehler triffst. Melde die gerne direkt über die [Feedbackfunktion von Micromate](./feedback.md).
+
+### Lernpakete
+Die Lerninhalte in Micromate sind unterteilt in zwei Lernpakete. Am besten startest du mit den "Definitionen". Dabei geht es um das Verständnis der wichtigsten Begriffe im Tischfussball. z.B. was ein "Transfer" oder eine "Transition" ist. Im zweiten Lernpaket "Intepretationen" lernst du die Regeln anhand von Spielsituationen anzuwenden.
+
+### Lernziele
+Die folgenden Lernziele müssen in Micromate für die einzelnen Lernpakete je Schiedsrichterstufe erreicht werden:
+
+|Stufe|Lernpaket Definitionen|Lernpaket Interpretationen|
+|---|---|---|
+|Assistant|40%|40%|
+|National|80%|80%|
 
 ## Praktische Ausbildung
 
