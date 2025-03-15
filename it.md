@@ -20,20 +20,32 @@ In breve, la formazione si svolge come segue:
     1. Puoi trovare lo strumento di formazione qui: [Strumento di formazione Micromate](https://learn.micromate.ai)
     2. Micromate conduce una sorta di conversazione con te. Ti pone domande di regole in piccole sessioni di 5 domande. Micromate riconosce ciò che sai e ciò che non sai. Nel corso del tempo, ti porrà di nuovo le stesse domande per verificare i tuoi progressi. È meglio imparare 10 minuti al giorno per raggiungere la percentuale necessaria in modo sostenibile.
 6. Salva il link qui sopra, ne avrai bisogno più volte nei prossimi mesi.
-7. Una volta raggiunto l'obiettivo di apprendimento per «Assistente», puoi iscriverti a un corso di formazione.
-8. Una volta completato il corso di formazione, verrai automaticamente promosso a «Regionale».
+7. Non appena avrai raggiunto l'[obiettivo di apprendimento](https://referee.swisstablesoccer.ch/it.md#lernziele) per «Assistente», potrai iscriverti a un corso di formazione.
+8. Una volta completato il corso di formazione, sarai automaticamente promosso a «Regionale».
 9. Acquisisci esperienza nei tornei (vedi sezione formazione pratica)
-10. Contatta la commissione arbitri per richiedere la promozione a «nazionale».
+10. Raggiungi l'[obiettivo di apprendimento](https://referee.swisstablesoccer.ch/it.md#lernziele) per il livello «Nazionale»
 
 Leggi la sezione «Riconoscimento annuale» per assicurarti che il tuo status di arbitro non scada.
 
 Hai domande sulla formazione? Unisciti al nostro [gruppo WhatsApp](./contact.md).
 
-## Informazioni sulla formazione teorica
+## Formazione teorica
 
 - Le domande sono poste nella lingua da te selezionata.
 - Tutti i termini tecnici sono sempre in inglese. Questo dovrebbe semplificare la comunicazione tra l'arbitro e i giocatori, anche se le parti parlano una lingua diversa.
-- Miglioriamo costantemente la formazione teorica. Ciò significa che è possibile che tu incontri ancora degli errori. Ti preghiamo di segnalarli direttamente tramite la [funzione di feedback di Micromate](./feedback.md).
+- Miglioriamo costantemente la formazione teorica. Ciò significa che è possibile che tu incontri ancora degli errori. Ti invitiamo a segnalarli direttamente tramite la [funzione di feedback di Micromate](./feedback.md).
+
+### Pacchetti di apprendimento
+I contenuti didattici di Micromate sono suddivisi in due pacchetti didattici. È meglio iniziare con le “Definizioni”. Si tratta di comprendere i termini più importanti del calcio balilla. Ad esempio, cosa sono un “trasferimento” o una “transizione”. Nel secondo pacchetto didattico “Interpretazioni” si imparano ad applicare le regole sulla base di situazioni di gioco.
+
+### Obiettivi didattici
+Gli obiettivi di apprendimento seguenti devono essere raggiunti in Micromate per i singoli pacchetti di apprendimento per ogni livello di arbitraggio:
+
+|Livello|Pacchetto di apprendimento Definizioni|Pacchetto di apprendimento Interpretazioni|
+|---|---|---|
+|Assistente|40%|40%|
+|Nazionale|80%|80%|
+
 
 ## Formazione pratica
 
