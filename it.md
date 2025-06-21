@@ -95,8 +95,8 @@ Come definito nel concetto di formazione per arbitri, per i giocatori che non ha
 A seconda del livello di formazione, questo importo vi sarà rimborsato:
 
 - Senza formazione: 30.- CHF
-- Assistente: 20.- CHF
-- Regionale: 10.- CHF
+- Assistente: 10.- CHF
+- Regionale: 0.- CHF
 - Nazionale: 0.- CHF
 
 ## Domande frequenti
