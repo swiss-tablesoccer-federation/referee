@@ -94,8 +94,8 @@ Comme défini dans le concept de formation des arbitres, une taxe d'orientation 
 Selon le niveau de formation, ce montant vous sera remis :
 
 - Sans formation : 30 CHF
-- Assistant : 20 CHF
-- Régional : 10 CHF
+- Assistant : 10 CHF
+- Régional : 0 CHF
 - National : 0 CHF
 
 ## Questions fréquemment posées
