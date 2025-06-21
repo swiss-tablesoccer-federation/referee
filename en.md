@@ -1,4 +1,4 @@
-![img.png](img/img.png)
+![image](https://github.com/user-attachments/assets/724505a0-3495-4afe-adce-22ced1e32673)![img.png](img/img.png)
 
 |[Deutsch](./README.md)|[Francais](./fr.md)|[Italiano](./it.md)|English|
 |---|---|---|---|
@@ -93,9 +93,9 @@ As defined in the referee training concept, a steering fee of up to CHF 30 is du
 
 Depending on your level of training, you will be waived this amount:
 
-- Without training: CHF 30
-- Assistant: CHF 20
-- Regional: CHF 10
+- Without training: 30.- CHF
+- Assistant: 10.- CHF
+- Regional: 0.- CHF
 - National: 0.- CHF
 
 ## Frequently asked questions
