@@ -92,8 +92,8 @@ Wie im Konzept zur Schiedsrichterausbildung definiert, wird für Spieler, welche
 Je nach Ausbildungsstand wird euch dieser Betrag erlassen:
 
 - Ohne Ausbildung: 30.- CHF
-- Assistant: 20.- CHF
-- Regional: 10.- CHF
+- Assistant: 10.- CHF
+- Regional: 0.- CHF
 - National: 0.- CHF
 
 ## Häufig gestellte Fragen
