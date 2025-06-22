@@ -70,7 +70,12 @@ Wir führen jährlich drei Workshops durch. Die Workshops haben die folgenden Be
 
 Falls du für deinen Vereine einen spezifischen Schiedsrichter Workshop organisieren möchte, dann bieten wir gerne Hand dazu. Nimm dazu gerne mit uns über [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch) Kontakt auf.
 
-Wir planen aktuell die nächsten Workshop-Termine. Sobald diese bekannt sind, wird man sich hier dafür anmelden können.
+Workshop Termine 2025:
+- 14.09.2025 Tischfussball Club Zürich
+- 09.11.2025 Tischfussball Club Laupen
+
+Anmeldung hier:
+https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAaxJgq1UNERJUktOR0tDVkhaUTZFRE5SM0w4NDhDRC4u
 
 ## Jährliche Anerkennung
 
