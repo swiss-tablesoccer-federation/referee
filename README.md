@@ -74,6 +74,10 @@ Workshop Termine 2025:
 - 14.09.2025 Tischfussball Club Zürich
 - 09.11.2025 Tischfussball Club Laupen
 
+Workshop Dauer:
+- Start 09:00
+- Ende 16:30
+
 Anmeldung hier:
 https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAaxJgq1UNERJUktOR0tDVkhaUTZFRE5SM0w4NDhDRC4u
 
