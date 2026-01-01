@@ -12,6 +12,7 @@ Aktuell können wir die Liste der Schiedsrichter noch nicht im Coral einpflegen.
 Aktuell gibt es keine Schiedsrichter mit dem Status National
 
 ### Regional
+- Amez Cyril
 - Ammann Beatrix
 - Frey Hiawatha
 - Frieden Stephan
@@ -34,7 +35,6 @@ Aktuell gibt es keine Schiedsrichter mit dem Status National
 - Zuber Silvan
 
 ### Assistant
-- Amez Cyril
 - Bernecker Markus 
 - Berner Beatrice 
 - Flüeler Daniel
