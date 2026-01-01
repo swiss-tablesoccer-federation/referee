@@ -4,6 +4,10 @@ Aktuell können wir die Liste der Schiedsrichter noch nicht im Coral einpflegen.
 
 ## Stichtag 31.12.2025
 
+### International
+- Filip Kubiatowicz
+- Marcel Glaus
+
 ### National
 Aktuell gibt es keine Schiedsrichter mit dem Status National
 
