@@ -3,6 +3,10 @@
 |Deutsch|[Francais](./fr.md)|[Italiano](./it.md)|[English](./en.md)|
 |---|---|---|---|
 
+# Schiedsrichter der STF
+Unter folgendem Link findest du die Liste der aktuell ausgebildeten Schiedsrichter:
+[Schiedsrichterliste](./docs/refereelist-de.md)
+
 # Schiedsrichter werden
 
 Es freut uns sehr, dass du dich dafür interessierst, die Schiedsrichterausbildung der Swiss Tablesoccer Federation anzutreten. Der gesamte Ablauf ist im Konzept Schiedsrichterwesen definiert.
@@ -40,10 +44,11 @@ Die Lerninhalte in Micromate sind unterteilt in zwei Lernpakete. Am besten start
 ### Lernziele
 Die folgenden Lernziele müssen in Micromate für die einzelnen Lernpakete je Schiedsrichterstufe erreicht werden:
 
-|Stufe|Lernpaket Definitionen|Lernpaket Interpretationen|
-|---|---|---|
-|Assistant|40%|40%|
-|National|80%|80%|
+| Stufe     |Lernpaket Definitionen|Lernpaket Interpretationen|
+|-----------|---|---|
+| Assistant |40%|40%|
+| Regional  |40%|40%|
+| National  |80%|80%|
 
 ## Praktische Ausbildung
 
@@ -70,16 +75,12 @@ Wir führen jährlich drei Workshops durch. Die Workshops haben die folgenden Be
 
 Falls du für deinen Vereine einen spezifischen Schiedsrichter Workshop organisieren möchte, dann bieten wir gerne Hand dazu. Nimm dazu gerne mit uns über [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch) Kontakt auf.
 
-Workshop Termine 2025:
-- ~14.09.2025 Tischfussball Club Zürich~
-- 09.11.2025 Tischfussball Club Laupen
+Workshop Termine 2026:
+Planung läuft
 
 Workshop Dauer:
 - Start 10:00
 - Ende 16:30
-
-Anmeldung hier:
-https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAaxJgq1UNERJUktOR0tDVkhaUTZFRE5SM0w4NDhDRC4u
 
 ## Jährliche Anerkennung
 
@@ -134,9 +135,8 @@ Je nach Ausbildungsstand wird euch dieser Betrag erlassen:
 
 - [Konzept Schiedsrichterausbildung](./docs/Konzept Schiedsrichterwesen.pdf)
 - [Standard Matchplay Rules 2024](./docs/Standard_Matchplay_Rules_2024.pdf)
-- [Reglement Lenkungsabgabe](./docs/Reglement Lenkungsabgabe.pdf)
-- [Reglement Schiedsrichterwesen](./docs/Reglement Schiedsrichterwesen.pdf)
-- [Regelinterpretationen STF](./docs/Regelinterpretationen STF.pdf)
+- [Reglement Schiedsrichterwesen](./docs/reglement-referee-de.md)
+- [Regelinterpretationen STF](./docs/interpretation-stf-de.md)
 
 ## Copyright
 Sämtliche Inhalte der Schiedsrichterausbildung sind Eigentum der Swiss Tablesoccer Federation und dürfen nicht ohne Erlaubnis der Schiedsrichterkomission weiterverwendet werden.

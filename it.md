@@ -3,10 +3,13 @@
 |[Deutsch](./README.md)| [Francais](./fr.md)|Italiano|[English](./en.md)|
 |---|---|---|---|
 
-# Diventare arbitro
-
 > Attenzione: tutte le traduzioni sono state effettuate con DeepL. Se qualcosa può essere ottimizzato, si prega di segnalarlo a referee@swisstablesoccer.ch.
 
+# Arbitri della STF
+Al seguente link trovi l'elenco degli arbitri attualmente formati:
+[Elenco arbitri](./docs/refereelist-de.md)
+
+# Diventare arbitro
 Siamo molto lieti che tu sia interessato a seguire la formazione per arbitri della Swiss Tablesoccer Federation. L'intero processo è definito nel concetto di arbitraggio.
 
 In breve, la formazione si svolge come segue:
@@ -42,10 +45,11 @@ I contenuti didattici di Micromate sono suddivisi in due pacchetti didattici. È
 ### Obiettivi didattici
 Gli obiettivi di apprendimento seguenti devono essere raggiunti in Micromate per i singoli pacchetti di apprendimento per ogni livello di arbitraggio:
 
-|Livello|Pacchetto di apprendimento Definizioni|Pacchetto di apprendimento Interpretazioni|
-|---|---|---|
-|Assistente|40%|40%|
-|Nazionale|80%|80%|
+| Livello    |Pacchetto di apprendimento Definizioni|Pacchetto di apprendimento Interpretazioni|
+|------------|---|---|
+| Assistente |40%|40%|
+| Regionale  |40%|40%|
+| Nazionale  |80%|80%|
 
 
 ## Formazione pratica
@@ -128,6 +132,5 @@ A seconda del livello di formazione, questo importo vi sarà rimborsato:
 
 - [Concetto di formazione per arbitri](./docs/Konzept Schiedsrichterwesen.pdf)
 - [Regole standard del match play 2024](./docs/Standard_Matchplay_Rules_2024.pdf)
-- [Regolamento tassa di gestione](./docs/Regolamento tassa di gestione.pdf)
-- [Regolamento arbitraggio](./docs/Regolamento arbitraggio.pdf)
-- [Interpretazioni delle regole STF](./docs/Interpretazioni delle regole STF.pdf)
+- [Regolamento arbitraggio](./docs/reglement-referee-it.md)
+- [Interpretazioni delle regole STF](./docs/interpretation-stf-it.md)

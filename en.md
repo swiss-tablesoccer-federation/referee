@@ -3,10 +3,13 @@
 |[Deutsch](./README.md)|[Francais](./fr.md)|[Italiano](./it.md)|English|
 |---|---|---|---|
 
-# Become a referee
-
 > Attention: All translations were done with DeepL. If anything can be optimized, please report it to referee@swisstablesoccer.ch.
 
+# STF referees
+You can find a list of currently trained referees at the following link:
+[Referee list](./docs/refereelist-de.md)
+
+# Become a referee
 We are very pleased that you are interested in becoming a Swiss Tablesoccer Federation referee. The entire process is defined in the refereeing concept.
 
 In a nutshell, the training is structured as follows:
@@ -42,9 +45,10 @@ The learning content in Micromate is divided into two learning packages. It's be
 ### Learning objectives
 The following learning objectives must be achieved in Micromate for each learning package at each referee level:
 
-|Level|Learning package Definitions|Learning package Interpretations|
-|---|---|---|
-|Assistant|40%|40%|
+| Level     |Learning package Definitions|Learning package Interpretations|
+|-----------|---|---|
+| Assistant |40%|40%|
+| Regional  |40%|40%|
 |National|80%|80%|
 
 ## Practical training
@@ -127,6 +131,5 @@ Depending on your level of training, you will be waived this amount:
 
 - [Umpire Training Concept](./docs/Konzept Schiedsrichterwesen.pdf)
 - [Standard Matchplay Rules 2024](./docs/Standard_Matchplay_Rules_2024.pdf)
-- [Regulations on the Incentive Fee](./docs/Regulations_on_the_Incentive_Fee.pdf)
-- [Regulations on the Refereeing System](./docs/Regulations_on_the_Refereeing_System.pdf)
-- [Rule Interpretations STF](./docs/Rule_Interpretations_STF.pdf)
+- [Regulations on the Refereeing System](./docs/reglement-referee-en.md)
+- [Rule Interpretations STF](./docs/interpretation-stf-en.md)

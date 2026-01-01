@@ -3,9 +3,13 @@
 |[Deutsch](./README.md)|Francais|[Italiano](./it.md)|[English](./en.md)|
 |---|---|---|---|
 
-# Devenir arbitre
-
 > Attention : toutes les traductions ont été réalisées avec DeepL. Si quelque chose peut être optimisé, veuillez le signaler à referee@swisstablesoccer.ch.
+
+# Arbitres de la STF
+Tu trouveras la liste des arbitres actuellement formés sous le lien suivant :
+[Liste des arbitres](./docs/refereelist-de.md)
+
+# Devenir arbitre
 
 Nous sommes très heureux que tu sois intéressé par la formation d'arbitre de la Swiss Tablesoccer Federation. Le déroulement complet est défini dans le concept d'arbitrage.
 
@@ -42,10 +46,11 @@ Les contenus d'apprentissage dans Micromate sont divisés en deux modules d'appr
 ### Objectifs d'apprentissage
 Les objectifs d'apprentissage suivants doivent être atteints dans Micromate pour les différents modules d'apprentissage pour chaque niveau d'arbitrage :
 
-|Niveau|Module d'apprentissage Définitions|Module d'apprentissage Interprétations|
-|---|---|---|
-|Assistant|40 %|40 %|
-|National|80 %|80 %|
+| Niveau    |Module d'apprentissage Définitions|Module d'apprentissage Interprétations|
+|-----------|---|---|
+| Assistant |40 %|40 %|
+| Regional  |40 %|40 %|
+| National  |80 %|80 %|
 
 ## Formation pratique
 
@@ -127,6 +132,5 @@ La formation théorique avec Micromate ainsi que la formation pratique lors de n
 
 - [Concept de formation des arbitres](./docs/Konzept Schiedsrichterwesen.pdf)
 - [Règles standard du matchplay 2024](./docs/Standard_Matchplay_Rules_2024.pdf)
-- [Règlement de la taxe d'incitation](./docs/Reglement Lenkungsabgabe.pdf)
-- [Règlement relatif aux arbitres](./docs/Reglement Schiedsrichterwesen.pdf)
-- [Interprétations des règles STF](./docs/Regelinterpretationen STF.pdf)
+- [Règlement relatif aux arbitres](./docs/reglement-referee-fr.md)
+- [Interprétations des règles STF](./docs/interpretation-stf-fr.md)
