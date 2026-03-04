@@ -1,7 +1,7 @@
 # Regolamento arbitrale
 
-| [Deutsch](./reglement-referee-de.md) | [Francais](./reglement-referee-fr.md) | Italiano | [English](reglement-referee-en.md) |
-|----------------|--------------------------------------|----------|------------------------------------|
+| [Deutsch](./reglement-referee-de.md) | [Francais](./reglement-referee-fr.md) | Italiano | [English](reglement-referee-en.md) | [Türkçe](./reglement-referee-tr.md) |
+|----------------|--------------------------------------|----------|------------------------------------|--------------------------------------|
 
 | Versione | Modifica                                                 | Data      | Responsabile | 
 |---------|----------------------------------------------------------|------------|----------------|

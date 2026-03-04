@@ -1,7 +1,7 @@
 # Reglement Schiedsrichterwesen
 
-|Deutsch| [Francais](./reglement-referee-fr.md) | [Italiano](./reglement-referee-it.md) | [English](reglement-referee-en.md) |
-|---|--------------------------------------|---------------------------------------|------------------------------------|
+|Deutsch| [Francais](./reglement-referee-fr.md) | [Italiano](./reglement-referee-it.md) | [English](reglement-referee-en.md) | [Türkçe](./reglement-referee-tr.md) |
+|---|--------------------------------------|---------------------------------------|------------------------------------|--------------------------------------|
 
 | Version | Änderung                                                 | Datum      | Verantwortlich | 
 |---------|----------------------------------------------------------|------------|----------------|
