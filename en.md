@@ -1,7 +1,7 @@
 ![img.png](img/img.png)
 
-|[Deutsch](./README.md)|[Francais](./fr.md)|[Italiano](./it.md)|English|
-|---|---|---|---|
+|[Deutsch](./README.md)|[Francais](./fr.md)|[Italiano](./it.md)|English|[Türkçe](./tr.md)|
+|---|---|---|---|---|
 
 > Attention: All translations were done with DeepL. If anything can be optimized, please report it to referee@swisstablesoccer.ch.
 

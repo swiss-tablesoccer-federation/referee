@@ -1,7 +1,7 @@
 # Regelinterpretationen STF
 
-|[Deutsch](./interpretation-stf-de.md)| Francais | [Italiano](./interpretation-stf-it.md) | [English](interpretation-stf-en.md) |
-|---|--------------------------------------|---------------------------------------|------------------------------------|
+|[Deutsch](./interpretation-stf-de.md)| Francais | [Italiano](./interpretation-stf-it.md) | [English](interpretation-stf-en.md) | [Türkçe](./interpretation-stf-tr.md) |
+|---|--------------------------------------|---------------------------------------|------------------------------------|--------------------------------------|
 
 | Version | Änderung                                                 | Datum      | Verantwortlich | 
 |---------|----------------------------------------------------------|------------|----------------|

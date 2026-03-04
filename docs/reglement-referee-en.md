@@ -1,7 +1,7 @@
 # Referee Regulations
 
-|[Deutsch](./reglement-referee-de.md)| [Francais](./reglement-referee-fr.md) | [Italiano](./reglement-referee-it.md) | English |
-|---|--------------------------------------|---------------------------------------|------------------------------------|
+|[Deutsch](./reglement-referee-de.md)| [Francais](./reglement-referee-fr.md) | [Italiano](./reglement-referee-it.md) | English | [Türkçe](./reglement-referee-tr.md) |
+|---|--------------------------------------|---------------------------------------|------------------------------------|--------------------------------------|
 
 | Version | Change                                                 | Date      | Responsible | 
 |---------|----------------------------------------------------------|------------|----------------|

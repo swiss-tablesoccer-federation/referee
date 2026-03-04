@@ -1,7 +1,7 @@
 ![img.png](img/img.png)
 
-|Deutsch|[Francais](./fr.md)|[Italiano](./it.md)|[English](./en.md)|
-|---|---|---|---|
+|Deutsch|[Francais](./fr.md)|[Italiano](./it.md)|[English](./en.md)|[Türkçe](./tr.md)|
+|---|---|---|---|---|
 
 # Schiedsrichter der STF
 Unter folgendem Link findest du die Liste der aktuell ausgebildeten Schiedsrichter:
