@@ -77,7 +77,12 @@ Nous organisons trois ateliers par an. Les ateliers sont soumis aux conditions s
 
 Si vous souhaitez organiser un atelier spécifique pour les arbitres de votre club, nous sommes à votre disposition. N'hésitez pas à nous contacter à l'adresse [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch).
 
-Nous sommes en train de planifier les prochaines dates des ateliers. Dès qu'elles seront connues, il sera possible de s'y inscrire ici.
+Dates des ateliers 2026 :
+- 01.11.2026 – Fribourg
+- 08.11.2026 – Seetal
+
+Comment s'inscrire :
+Envoyez simplement un court e-mail à [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch). Nous nous réjouissons d'une participation nombreuse !
 
 ## Reconnaissance annuelle
 

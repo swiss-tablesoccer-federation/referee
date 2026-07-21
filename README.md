@@ -76,7 +76,11 @@ Wir führen jährlich drei Workshops durch. Die Workshops haben die folgenden Be
 Falls du für deinen Vereine einen spezifischen Schiedsrichter Workshop organisieren möchte, dann bieten wir gerne Hand dazu. Nimm dazu gerne mit uns über [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch) Kontakt auf.
 
 Workshop Termine 2026:
-Planung läuft
+- 01.11.2026 – Freiburg
+- 08.11.2026 – Seetal
+
+So meldet ihr euch an:
+Schickt einfach eine kurze E-Mail an [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch). Wir freuen uns auf eine rege Teilnahme!
 
 Workshop Dauer:
 - Start 10:00

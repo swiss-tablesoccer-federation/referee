@@ -76,7 +76,12 @@ We conduct three workshops a year. The workshops have the following conditions:
 
 If you would like to organize a specific referee workshop for your club, we would be happy to help. Please contact us at [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch).
 
-We are currently planning the next workshop dates. As soon as they are known, you will be able to register for them here.
+Workshop dates 2026:
+- 01.11.2026 – Freiburg
+- 08.11.2026 – Seetal
+
+How to register:
+Simply send a short email to [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch). We look forward to your participation!
 
 ## Annual recognition
 

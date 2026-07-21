@@ -77,7 +77,12 @@ Organizziamo tre workshop all'anno. I workshop hanno le seguenti condizioni:
 
 Se desideri organizzare un workshop specifico per gli arbitri della tua società, saremo lieti di aiutarti. Contattaci all'indirizzo [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch).
 
-Stiamo pianificando le prossime date dei workshop. Non appena saranno disponibili, sarà possibile iscriversi qui.
+Date dei workshop 2026:
+- 01.11.2026 – Friburgo
+- 08.11.2026 – Seetal
+
+Come iscriversi:
+Inviate semplicemente una breve e-mail a [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch). Siamo lieti di accogliere numerosi partecipanti!
 
 ## Riconoscimento annuale
 
