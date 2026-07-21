@@ -76,7 +76,12 @@ Yılda üç atölye çalışması düzenliyoruz. Atölye çalışmalarının aş
 
 Kulübünüz için özel bir hakem atölye çalışması düzenlemek isterseniz, yardımcı olmaktan memnuniyet duyarız. Lütfen [referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch) adresinden bizimle iletişime geçin.
 
-Şu anda sonraki atölye çalışması tarihlerini planlıyoruz. Bilindiklerinde buradan kaydolabileceksiniz.
+Atölye çalışması tarihleri 2026:
+- 01.11.2026 – Freiburg
+- 08.11.2026 – Seetal
+
+Nasıl kayıt olunur:
+[referee@swisstablesoccer.ch](mailto:referee@swisstablesoccer.ch) adresine kısa bir e-posta gönderin. Yoğun bir katılımı dört gözle bekliyoruz!
 
 ## Yıllık tanıma
 
